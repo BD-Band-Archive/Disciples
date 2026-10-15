@@ -8,6 +8,13 @@
 
 ---
 
+## Harano Podochchap (হারানো পদচ্ছাপ) (2006)
+
+- **Release Year:** 2006
+- **Band / Project:** Disciples
+- **Record Label:** G-Series
+- **Director & Composer:** Rajib Rahman (Double R)
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01. Syd, Rajib, Moe & Chuckie - Asha Jage**](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/01.%20Syd%2C%20Rajib%2C%20Moe%20%26%20Chuckie%20-%20Asha%20Jage.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/01.%20Syd%2C%20Rajib%2C%20Moe%20%26%20Chuckie%20-%20Asha%20Jage.flac?download=true)
