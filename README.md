@@ -33,6 +33,15 @@
 - [**14. Moe, Syd & Ed - Disciples**](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/14.%20Moe%2C%20Syd%20%26%20Ed%20-%20Disciples.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/14.%20Moe%2C%20Syd%20%26%20Ed%20-%20Disciples.flac?download=true)
 - [**15. Moe & Palowa - Move Ya**](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/15.%20Moe%20%26%20Palowa%20-%20Move%20Ya.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/15.%20Moe%20%26%20Palowa%20-%20Move%20Ya.flac?download=true)
 
+
+---
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bfront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bcover%5D.jpg" width="300" alt="2. harano podochchap [cover]" /><br><sub><b>2. harano podochchap [cover]</b></sub> |
+
 ---
 
 ### 💾 Git LFS & Downloading Audio
