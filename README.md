@@ -2,18 +2,37 @@
 
 [![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
+<p align="center">
+  <img src="assets/band_cover.jpg" alt="Disciples" width="750" />
+</p>
+
 ## 🌟 About the Band
 
-> **Disciples** Bangladeshi music collection with lossless audio and full album packaging artwork.
+> **Disciples** is an influential alternative rock, nu-metal, and rap-rock collaborative music project conceived and produced by composer-guitarist **Rajib Rahman (Double R)** in 2006. Bridging the gap between Dhaka's booming underground heavy metal scene and the diaspora urban music movement, Disciples assembled a powerhouse collective of vocalists and lyricists including **Kazi** (frontman of hip-hop pioneers Stoic Bliss), **Syd**, **Moe**, **Chuckie**, **Rupom**, **Ac1D**, **Ed**, **Zahid**, and **Minni**. With crushing heavy guitar riffs, melodic acoustic textures, and rapid bilingual rock-rap flows, Disciples delivered a distinct mid-2000s sonic identity that remains a cult favorite in modern Bangladeshi rock history.
 
 ---
 
-## Harano Podochchap (হারানো পদচ্ছাপ) (2006)
+## 📑 Discography Index
 
-- **Release Year:** 2006
+1. [Harano Podochchap (হারানো পদচ্ছাপ) (2006)](#1-harano-podochchap-2006)
+
+---
+
+<a id="1-harano-podochchap-2006"></a>
+## 1. Harano Podochchap (হারানো পদচ্ছাপ) (2006)
+
 - **Band / Project:** Disciples
+- **Release Year:** 2006
 - **Record Label:** G-Series
 - **Director & Composer:** Rajib Rahman (Double R)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bfront%5D.jpg" width="300" alt="Harano Podochchap Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2006 by G-Series, *Harano Podochchap* ("Lost Footsteps") is a genre-defying milestone combining heavy alternative rock, nu-metal grooves, and underground hip-hop delivery. Masterminded by Rajib Rahman, the album features groundbreaking collaborative cuts such as the anthem *"Asha Jage"*, the introspective hard-hitter *"SHanti Melena"* featuring Kazi (Stoic Bliss), the melancholic nu-metal tracks *"Biborno Prithibi"* and *"Evil In My Head"*, and the soul-stirring unplugged ballad *"Nikosh Adhar"*. The album captured an adventurous fusion of cross-continental Bangladeshi youth expressions during the golden mid-2000s era.
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -33,14 +52,13 @@
 - [**14. Moe, Syd & Ed - Disciples**](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/14.%20Moe%2C%20Syd%20%26%20Ed%20-%20Disciples.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/14.%20Moe%2C%20Syd%20%26%20Ed%20-%20Disciples.flac?download=true)
 - [**15. Moe & Palowa - Move Ya**](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/15.%20Moe%20%26%20Palowa%20-%20Move%20Ya.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Disciples/master/Harano%20Podochchap%20%282006%29/15.%20Moe%20%26%20Palowa%20-%20Move%20Ya.flac?download=true)
 
-
 ---
 
 ### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
-| <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bfront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bcover%5D.jpg" width="300" alt="2. harano podochchap [cover]" /><br><sub><b>2. harano podochchap [cover]</b></sub> |
+| <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bfront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bcover%5D.jpg" width="300" alt="2. Inlay / CD Cover" /><br><sub><b>2. Inlay / CD Cover</b></sub> |
 
 ---
 
@@ -57,4 +75,3 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 
 ### 🙏 Special Thanks & Gratitude
 Heartfelt gratitude to **Shohail Ibne Mahbub (XTR)** for his monumental passion and dedication in keeping Bangladeshi band music alive. Through his archival project [**Bangla CD Covers**](https://banglacdcovers.blogspot.com/), he has painstakingly collected, preserved, and scanned original physical CDs and cassette tapes, ensuring that the legacy, artwork, and history of Bangladesh's rock and band movement remain preserved for generations of music lovers.
-
