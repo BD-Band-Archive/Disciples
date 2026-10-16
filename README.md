@@ -60,6 +60,12 @@ Released in 2006 by G-Series, *Harano Podochchap* ("Lost Footsteps") is a genre-
 | :---: | :---: |
 | <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bfront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Harano%20Podochchap%20%282006%29/Album%20Cover/harano%20podochchap%20%5Bcover%5D.jpg" width="300" alt="2. Inlay / CD Cover" /><br><sub><b>2. Inlay / CD Cover</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Rienhart
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 ### 💾 Git LFS & Downloading Audio
