@@ -1,0 +1,34 @@
+Album Name: Harano Podochchap
+Album Type: Band
+Release Year: 2006
+Genre: Rock
+Total Songs: 15
+Track List:
+01. Syd, Rajib, Moe & Chuckie - Asha Jage
+02. Kazi (Stoic Bliss) - SHanti Melena
+03. Rupom & Moe - Biborno Prithibi
+04. Moe & Rajib - Evil In My Head
+05. Rajib - Nikosh Adhar (Unplugged)
+06. Moe & Ac1D - Death Sentence
+07. Rajib & Kazi - Khoniker Jonno
+08. Rajib - Durer Tomay
+09. Syd, Chuckie, Moe & Ed - Deep Thoughts
+10. Minni & Rajib - Jibon Amar
+11. Zahid - Shomoy
+12. Syd & Moe - Day By Day
+13. Rajib - Debotari Khob
+14. Moe, Syd & Ed
+15. Moe & Palowa - Move Ya
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 928 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.2 (2017-01-01)
